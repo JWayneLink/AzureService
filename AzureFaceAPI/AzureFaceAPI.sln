@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFaceAPI", "AzureFaceAPI\AzureFaceAPI.csproj", "{4EE8512E-1D5D-445B-A791-FD0595A5BB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage", "AzureBlobStorage\AzureBlobStorage.csproj", "{8248D547-0D00-4705-8837-A151EEA84FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE8512E-1D5D-445B-A791-FD0595A5BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE8512E-1D5D-445B-A791-FD0595A5BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE8512E-1D5D-445B-A791-FD0595A5BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE8512E-1D5D-445B-A791-FD0595A5BB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8248D547-0D00-4705-8837-A151EEA84FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8248D547-0D00-4705-8837-A151EEA84FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8248D547-0D00-4705-8837-A151EEA84FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8248D547-0D00-4705-8837-A151EEA84FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8572C358-4175-4ED3-9D8A-A692AB8FB650}
+	EndGlobalSection
+EndGlobal

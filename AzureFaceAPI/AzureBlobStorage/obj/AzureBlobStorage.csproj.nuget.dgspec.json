@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj": {}
+  },
+  "projects": {
+    "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj",
+        "projectName": "AzureBlobStorage",
+        "projectPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj",
+        "packagesPath": "C:\\Users\\iec090297\\.nuget\\packages\\",
+        "outputPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iec090297\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://taotest:123/FISNuGetServer2/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
