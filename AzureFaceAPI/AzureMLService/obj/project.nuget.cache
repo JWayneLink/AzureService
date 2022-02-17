@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iKA/UBs6+V07TI1Fx6R6b4bomZLR4Y/zIu6NjUunT9k+SG7C+Z11dngW/YaGOe0iw8yiHTMf/K4V/BTd0joOUw==",
+  "success": true,
+  "projectFilePath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureMLService\\AzureMLService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iec090297\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\iec090297\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

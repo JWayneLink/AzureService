@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ds8/c/WPf0+tiCds71eLOL3BFQyiXkjfgdVz5ZX/CfaSEvP+MzU7rhTHJ3cGLI5Yq549TVKUMs+n06K79m08DA==",
+  "dgSpecHash": "MgdTHCXL+ghZpRGlx+yMc6lJBQbWJ0f9JwzjdPMcYkXnHOl1tajElsuYJBT/QHCKnDf4bHrTeAYJW/ocm86Bnw==",
   "success": true,
-  "projectFilePath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureFaceAPI\\AzureFaceAPI.csproj",
+  "projectFilePath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureFaceAPI\\AzureFaceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iec090297\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\iec090297\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",

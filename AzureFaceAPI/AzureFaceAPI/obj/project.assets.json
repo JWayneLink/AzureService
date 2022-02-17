@@ -5543,11 +5543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureFaceAPI\\AzureFaceAPI.csproj",
+      "projectUniqueName": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureFaceAPI\\AzureFaceAPI.csproj",
       "projectName": "AzureFaceAPI",
-      "projectPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureFaceAPI\\AzureFaceAPI.csproj",
+      "projectPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureFaceAPI\\AzureFaceAPI.csproj",
       "packagesPath": "C:\\Users\\iec090297\\.nuget\\packages\\",
-      "outputPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureFaceAPI\\obj\\",
+      "outputPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureFaceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFaceAPI", "AzureFaceAPI\AzureFaceAPI.csproj", "{4EE8512E-1D5D-445B-A791-FD0595A5BB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFaceAPI", "AzureFaceAPI\AzureFaceAPI.csproj", "{4EE8512E-1D5D-445B-A791-FD0595A5BB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage", "AzureBlobStorage\AzureBlobStorage.csproj", "{8248D547-0D00-4705-8837-A151EEA84FB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureBlobStorage", "AzureBlobStorage\AzureBlobStorage.csproj", "{8248D547-0D00-4705-8837-A151EEA84FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMLService", "AzureMLService\AzureMLService.csproj", "{33670064-E121-4FC5-91D9-94995DBC86FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8248D547-0D00-4705-8837-A151EEA84FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8248D547-0D00-4705-8837-A151EEA84FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8248D547-0D00-4705-8837-A151EEA84FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33670064-E121-4FC5-91D9-94995DBC86FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33670064-E121-4FC5-91D9-94995DBC86FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33670064-E121-4FC5-91D9-94995DBC86FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33670064-E121-4FC5-91D9-94995DBC86FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj": {}
+    "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj": {}
   },
   "projects": {
-    "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj": {
+    "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj",
+        "projectUniqueName": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj",
         "projectName": "AzureBlobStorage",
-        "projectPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj",
+        "projectPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureBlobStorage\\AzureBlobStorage.csproj",
         "packagesPath": "C:\\Users\\iec090297\\.nuget\\packages\\",
-        "outputPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureFaceAPI\\AzureBlobStorage\\obj\\",
+        "outputPath": "D:\\Inventec-Visual Studio Lab\\Azure\\AzureService\\AzureFaceAPI\\AzureBlobStorage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,10 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.10.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
